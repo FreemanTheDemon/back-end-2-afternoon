@@ -1,0 +1,24 @@
+{
+  "name": "back-end-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FreemanTheDemon/back-end-2-afternoon.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FreemanTheDemon/back-end-2-afternoon/issues"
+  },
+  "homepage": "https://github.com/FreemanTheDemon/back-end-2-afternoon#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  }
+}
